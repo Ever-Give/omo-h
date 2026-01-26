@@ -276,3 +276,4 @@ Good story, but could you make the text white so I don't have to highlight it to
 
 Argh. apologies. it's fixed now. don't know why this happened this time and not in any of my previous threads. there really ought to be a way to just strip out the text color without also making one also reapply all the italics, but if there is i haven't found it.
 
+
