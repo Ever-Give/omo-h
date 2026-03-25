@@ -1,0 +1,1036 @@
+﻿Misson to the ISS - The Astronaut with the Super Bladder
+
+Author: HitEmAll
+
+*015*2022-11-27 18:40
+
+So.. I thought a lot about how to get Jessie safely into space, and I think it might be possible to do this. I started to write some more chapters of the story, and the first one or two are soon ready for publication. Is there any interest for more stories around our favorite astronaut Jessie and her super bladder? 🙂👩‍🚀🚀
+
+*017*2022-12-11 15:03
+
+Thanks a lot for all the positive feedback! That's some additional motivation to continue writing!
+
+The "first part of the second part" is ready, and the next few parts are ready very soon.. 🙂 In this part there is not yet any peeing, but there are a lot of important decisions and technology presented from NASA side. NASA has very ambitious plans for Jessie and her super bladder. Ah, and Jessie's bladder is again starting to fill up for scientific reasons.. 😉
+
+Preparations for an Epic NASA Mission - Prologue
+
+What happened in part 1: NASA discovered a mission-threatening problem for a planned mission to the ISS to perform crucial and time-critical maintenance. NASA learned, that mission specialist Dr. Jessie Lewis, who was selected to perform the most difficult part of the spacewalk-requiring service on the ISS, has an extremely large bladder. This is mission-threatening, because due to a scientifically not yet understood phenomenon called the "Strahler law", urine production in female astronauts is a function of bladder size, meaning that Jessie with her extremely large bladder will produce urine at an extremely high rate. There are a number of problems for NASA, most importantly, the urine containment systems that Jessie will wear during launch, return to earth, and most importantly during her crucial spacewalk mission will have no chance to handle the tremendous amounts of urine that Jessie will produce.
+
+After Jessie had left the lab D4, the four remaining NASA employees in the lab continued with their debriefing of what they had witnessed on this remarkable day. Natasha once again stared in disbelief on one of the computer screens showing the live telemetry data from Jessie's world record urination. The total volume of urine that Jessie had released at the end was 2925 ml, and due to the characteristics of Jessie's pee (see part 1 for details..), this value was slightly underreported, meaning that they had to find a solution to cope with Jessie's three liter bladder.
+
+[NASA urine research abbreviations: UCS stands for urine containment system]
+
+Natasha: After Jessie finished her pee, I briefly checked the data that our systems recorded for how Jessie's UCS failed. At least we did get excellent data.
+
+Fiona: That's good, then today's efforts at least were for a good reason. Excellent data from an excellent pee!
+
+Natasha: Yes.. However, we currently do not have any technology available to extend the capacity of Jessie's UCS to anything close to what we would probably need.. The problem is, that there are limitations on the dimensions of the system. In Jessie's space suit, as well as in the suit that she will use during her spacewalk mission, there are so many different technical systems that take space, such that there is only a restricted amount of space left for the UCS.. Already for the problem with Sophie's bladder two years ago, we did need a significant redesign of large parts of the space suit, and this was only to extend the capacity by a small amount compared to what we need now..
+
+Fiona: Hmm.. yes this sounds very problematic.
+
+Natasha: Yes, right now, I don't see any way how we can provide a solution for Jessie, based on conventional UCIs..
+
+Joanna: Hmm.. so as you know, NASA does have some "unconventional" technology for women to pee in space..
+
+Natasha: Yes.. however, it was never tested in space.. Maybe we have to go this route. We will discuss this in more detail tomorrow, I am sure..
+
+Joanna: Yes.. We will also have to study the Strahler law, to figure out ow much urine Jessie is actually producing in zero gravity.
+
+Hailey: Yes.. Anyway, we should contact our colleagues in Freiburg as soon as possible, for various reasons..
+
+Fiona: I guess you mean the German research center that you mentioned before?
+
+Hailey: Exactly. Maybe they have some ideas.. and maybe also access to some women with very large and powerful bladders, which we could need for various reasons..
+
+Fiona: So this is true that they have women with powerful bladders for testing and certification?
+
+Natasha: Haha yes, this is absolutely true! We don't exactly know how they do it, but they usually have a team of very "skilled" women.
+
+Hailey: Yes.. Haha.. maybe bladders of German girls are just built differently?
+
+Fiona: Haha.. maybe.
+
+Natasha: Btw. Fiona and Joanna, in case you did not know, Prof. Strahler is head of the institute.
+
+Fiona: Ah, wow! Very interesting, I did not know that.
+
+Joanna: Interesting, me neither..
+
+Natasha: Fun fact, Julia Strahler herself is an expert for high-power urination. Quite a lot of NASA certified urination equipment was at some point during development tested-to-failure by Prof. Strahler herself.
+
+Fiona: Haha, so cool! Haha.. so I guess when Prof. Strahler needs a bathroom break, she just walks through the labs of the institute to find some device that requires testing?
+
+Natasha: Yes, as far as I know this actually happens from time to time..
+
+With this discussion this remarkable Friday in the NASA "piss lab" D4 ended, and everybody went home to get some rest and prepare for a weekend full of work to figure out a solution for Jessie and her giant bladder.
+
+Preparations for an Epic NASA Mission - Part 1
+
+George Robinson, Flight director
+
+Dr. Andy Foster, Lead Engineer Spacewalk Systems
+
+Dr. Sarah Turner, Lead Engineer "Manticore" Capsule
+
+The weekend following Jessie's epic urination was packed with emergency meetings at NASA to plan and decide on the next steps how to deal with this situation. On Sunday, a couple of decisions were already taken and several immediate action items defined. One major project that was started immediately was to study if the bladder fill rate of former female astronauts under zero G could be approximated using fighter jet flights with shorter periods of zero G. Simultaneously, NASA decided to immediately start the recruitment of women with extremely large and powerful bladders to help with testing the hopefully soon upgraded systems. Then, Natasha's team had to address the problem of dealing with the close-to-inhuman amounts of pee that Jessie would produce in space. It was decided that in the remaining time it was impossible to upgrade the urine containment system by the required amount, and that it was necessary to find other solutions.
+
+Jessie's mission included three different major pee-critical situations: 1. the launch and approach to the ISS, 2. the two (or potentially three) spacewalks to perform the crucial and time-critical repairs on the outside of the ISS, and 3. the return to earth. The following initial plans were developed for these situations:
+
+Launch and approach to the ISS:
+
+It was decided that it was impossible to perform a launch / approach mission as planned. However, the current six hour "earth to ISS" mission was only introduced three years ago, to make it as comfortable and fast as possible for the astronauts to get to the ISS. Before that, the approach took much longer, including a sleep phase for the crew. Back then, the capsule had a waste disposal system that was then removed because it was not necessary anymore. 
+
+The plan now was, to re-add the waste disposal system to the capsule and to develop a "semi-fast" mission profile that included pee breaks for Jessie, during which she could empty her bladder safely into the waste disposal system and change into a new urine containment system. The initial plan was, that with this, the maximum time that Jessie had to be suited up could be reduced to about 2.5 hours during launch, and also about 2.5 hours during the final approach. According to estimations based on the Strahler law, for Jessie it should be easily possible to make it safely through these periods, including one very substantial urination into her urine containment system per period dressed up. A couple of things had to be worked out for this, but as a plan this seemed feasible.
+
+Return to earth:
+
+It was decided to adapt the mission profile, and to include a pee break for Jessie just before the reentry burn that took place about 1.5 hours before landing in the ocean. Here, the longest time for Jessie to be suited up was again around 2.5 hours. Implementing this mission profile was pretty straight-forward if the necessary changes for implementing the semi-fast approach to the ISS could be implemented.
+
+Space walks:
+
+It was identified that the spacewalks posed a major problem for Jessie. It was decided that it was not possible to significantly shorten the duration of the spacewalks, also it was decided that it was not possible to increase the capacity of the urine containment system by the required amount. Instead, it was decided to re-evaluate plans for a system that would allow female astronauts to literally urinate into space. When NASA prepared to plan for the first female spacewalk, they already knew about the Strahler law and considered different approaches to handle the potentially very large amounts of urine that female astronauts would produce. 
+
+NASA had designs of spacewalk suits for female astronauts that did not have a urine containment system, but instead a system below the crotch where a "urination mode" could be activated. When activating urination mode, a kind of "high tech funnel" that was highly optimized for the given female astronaut's physiology is pressed with high pressure against the crotch from "below", such that an air-tight connection from the urethra into a small air lock to space can be established. After verifying that the funnel crotch connection is fully sealed, the air lock can be opened to enable the astronaut to empty her bladder directly into space.
+
+There existed prototypes of the system and they were tested on earth, and female astronauts found the systems actually very comfortable for wearing and for urination. However, in the end it was decided that it was safer to scale up the capacity of normal urine containment systems. Because of Jessie's bladder it was now decided to work with highest priority on integrating this system into Jessie's spacewalk suit. Also it was decided to adapt the system as soon as possible for Jessie, such that she could test the system as soon as possible without actual integration into the space suit, by wearing it and by using it for urination. The initial plan was, that every 100 to 120 minutes (depending on Jessie's urge to go) Jessie would interrupt her work, move into a position that was safe for urination, and then take a huge piss directly into space.
+
+It was further decided to shift the launch date by two months, to have at least a small amount of additional time to work on all the necessary changes. It was also decided that for the next week all possible resources should be shifted towards setting up the necessary projects, with the consequence that some of the normal mission preparation of this week was cancelled.
+
+On Monday morning, Jessie arrived at the crew's Monday morning briefing for the week. On Sunday she had a day off, so she was not in the loop with respect to the latest plans. A number of additional people joined the meeting to present the current plan and the decisions taken to the crew. First, flight director George Robinson communicated the summary of the decisions taken to the crew. After a 25 minutes presentation packed with information, the crew had time to process the news, to discuss internally, and to ask questions to the other experts in the meeting.
+
+Mission Commander Samantha Dryer started to talk and asked her crew about their feelings about the plans.
+
+Samantha: Hmm.. sounds like a plan. I guess it is a ton of work for the engineers at NASA and some things are pretty complicated, but for us it seems pretty OK, or does anyone see any major problem?
+
+Nathalie: Seems pretty OK! Our spaceship gets a toilet upgrade and we get to see Jessie literally take a piss into space!
+
+Samantha: Jessie, what are your initial thoughts? Do you think this could work?
+
+Jessie: Hmm.. sure.. sounds great so far, I think this could work. I'm really curious to find out more about this pee-into-space-system, sounds completely crazy, but I am looking very much forward to use it!
+
+Andy Foster, the Lead Engineer Spacewalk Systems joined the discussion:
+
+Andy: Yes, in fact we are already preparing for you to test the system. If it is OK for you, then Dr. Meyers will examine your physiology this afternoon, such that we can fit the "vacuum funnel" for you. We will then immediately integrate it with one of the prototypes that we built long time ago, and then we plan to run a first test with you tomorrow, and if this was successful, then perform a long test on Wednesday.
+
+Jessie: Wow, that's really fast! Great! I see, we are really in a hurry here with setting up things.. So how will these tests work?
+
+Natasha Wright, the lead engineer responsible for the urine containment and waste disposal systems on this mission explained the plan for these tests:
+
+Natasha: Tomorrow we will explain you the system, you can wear it for the first time, and then we want you to immediately "test" it.
+
+Jessie: Wow, so tomorrow I will already take my first pee in this thing?
+
+Natasha: Yes, maybe even multiple pees. We are still working out the exact program for the next two days.
+
+Jessie: Cool!
+
+Nathalie: Wow, impressive! Only four days after Jessie absolutely destroyed your science fiction diaper, you already have a new even more science fiction system ready! Cool!
+
+George: So for Wednesday we have planned another full scale test of space walk 1 for Jessie in the training pool, Nathalie and Andrej if this is OK for you? To compensate for this, the remaining program for this week will be very relaxed.
+
+Jessie, Nathalie and Andrej agreed that and said that this was no problem for them.
+
+Jessie: So that means I will wear the new system during that training?
+
+Andy: Yes, we can fit this system into the suits that you wear in the pool. And we also want you to practice how to safely urinate in space.
+
+Nathalie: So, Jessie will pee into the training pool?
+
+Andy: Yes that's the plan. Haha I guess that's OK for you Andrej and Nathalie?
+
+Nathalie: "Rrrrrr", so hot! We love to swim in Jessie's pee haha! Just make sure that the pool does not overflow!
+
+Everybody was laughing, and of course no one had any problem with Jessie peeing into the pool.
+
+Nathalie: Haha then in space Andrej and I will have to stand guard for Jessie such that she can pee safely and is protected from the views of naughty aliens!
+
+Everybody was still laughing.
+
+George: Haha, actually we plan to have a live stream on youtube showing your space walk missions. So it is not only aliens but potentially also lots of naughty people on earth watching you pee. I guess if you want we can pixelate you then haha!
+
+Nathalie: Noooo! Let them have a bit of fun and let them watch Jessie do her space business!
+
+Jessie: Haha what can they see anyway? Some liquid spraying into space, I guess I can live with that haha..
+
+Samantha: "some liquid" is a bit of an understatement, probably rather the "Jessie space geyser" haha..
+
+Alexej: Haha.. anyway, they will probably have no clue what is going on?.. This might actually be quite disturbing and worrying seeing lots of liquid spraying out of Jessie's suits?
+
+Everybody was laughing again. They agreed that they currently did not have to worry about this topic.
+
+George: So, to summarize the plans for this week: we will focus on preparing everything for Jessie to be able to pee into space. All of your planned team trainings for this week are canceled, and only the individual trainings will take place and of course the space walk 1 training. For the space walk team, you have a day off on Thursday. For Friday, we are not yet completely sure, but there might be a change and you might get an introduction to the Manticore waste disposal system.
+
+Samantha: So on Friday we will learn how to use the fancy new toilet in our spaceship?
+
+Sarah Turner, Lead Engineer of the "Manticore" Capsule answered,
+
+Sarah: Possibly, could also be next week. We are currently very busy with planning the re-integration of the system into your spaceship, so we are not yet sure when this will be ready.
+
+George: So I hope the plan for this week will be OK for all of you. For you Jessie it will be a bit stressful with your extra program for the next three days, but we hope that this is OK for you?
+
+Jessie: Sure, this sounds very reasonable. I am very impressed by how fast all of you figured out these things. I hope that it is also OK for all of the engineers, it sounds like you did not get too much sleep or breaks during the last two days if we look at the progress.
+
+The scientists and engineers in the room confirmed that they were extremely busy right now, but they said that for the moment it was OK for them to work long overtime hours, until they were sure that they had figured out a plan that should work.
+
+Jessie: ..it sounds like I am expected to pee several times tomorrow and on Wednesday?
+
+Doctor Joanna Meyers, one of the mission physicians answered.
+
+Joanna: Yes, exactly. This is what we aim for. We still have to figure out how to exactly do this, but probably we will give you a "drinking schedule" for today and tomorrow such that you have some pee in your bladder prior to the training sessions, if this is OK for you?
+
+Jessie: Sure, that makes sense.
+
+Nathalie: Jessie is pretty good at peeing, she will manage!
+
+Everybody was laughing.
+
+Nathalie: Btw. if I understand correctly, then I don't have anything to do tomorrow during Jessie's pee system test.. Can I join?
+
+Everybody was laughing again.
+
+Joanna: Haha.. from our side, why not? But I guess Jessie has to say if it is fine if you join for the peeing fun?
+
+Jessie: Hahaha!! Sure I want to have sexy Nathalie support me and watch me learning how to pee in space!
+
+This concluded this very special Monday morning briefing of the crew. The rest of the morning they spent with some individual preparations for their mission. In the afternoon, Jessie had her examination by Dr. Meyers to create the optimal design of her vacuum funnel. At 10:30 in the morning, Joanna visited Jessie for a quick chat.
+
+Joanna: Sorry to interrupt you, but I have some questions and instructions.
+
+Jessie: OK, sure!
+
+Joanna: So, first I'd briefly talk about your bladder after your two very large pees on Friday. Did you notice anything different with respect to your need to pee on Saturday and Sunday?
+
+Jessie: Yes, on Saturday my bladder certainly was a bit more sensitive than usual, and I suddenly felt quite desperate around noon and had to go pee.
+
+Joanna: OK, so was it much less pee that you voided there than usual?
+
+Jessie: Hmm.. it was certainly not like when I peed on Friday, but it certainly was not a "small" pee by normal standards. Probably a bit less than when I usually go, but still quite a lot.
+
+Joanna: OK, that's very good to hear! And on Sunday?
+
+Jessie: I think on Sunday my bladder had pretty much fully recovered. I did not really notice this "increased sensitivity" of my bladder anymore.
+
+Joanna: Very good! Of course we have to pay attention that your super bladder stays 100 percent healthy!
+
+Jessie: Yes, this is certainly important!
+
+Joanna: So, for this week we plan to have you fill your bladder to some extent multiple times. It is not necessary that you are anywhere close to bursting, but you might have a somewhat full bladder multiple times. We hope that this will not irritate your bladder in any way. If you experience anything like this "increased sensitivity" then please tell us, then we will change the schedule.
+
+Jessie: Sure! OK, do you already know how this will work, or what I have to do to prepare for these trainings?
+
+Joanna: Hmm.. first of all, for today it would be also good if you have a somewhat filled bladder for our appointment this afternoon at 2 pm.
+
+Jessie: OK, I think I can do this.
+
+Joanna: I am sure you can do this haha! I guess you did not pee since this early morning and had a couple of drinks since then?
+
+Jessie: Yes, I got up at 06:15, had a coffee, before I left from home for the crew briefing I peed, probably around 07:15. Since then I drank two more coffees and about two cups of water.
+
+Joanna: OK, very good. Do you plan to pee anytime soon?
+
+Jessie: Hmm.. Sometimes I take a pee before lunch, more out of habituation than because I have to pee. I think if I skip this pee today and maybe drink a few cups of water extra I'll have a reasonably full bladder for the appointment.
+
+Joanna: Yes, that sounds very good. Just don't overdo it, if your bladder is not full enough, then we can also just wait a bit. I think one or two extra cups per hour should easily do the job.
+
+Jessie had a half full water bottle next to her, and ostentatiously started drinking and emptied the bottle.
+
+Jessie: OK! [while winking with her eye]
+
+Joanna: Haha!.. No need for a new pee world record today!.. And you will not be able to pee directly after you arrive, it would be good if you could hold it for another hour or so!
+
+Jessie: Ok ok, understood! Great, thanks for the information!
+
+Joanna: Great, thanks for your time, and see you soon!
+
+Joanna left, and Jessie continued studying some training material for her mission.
+
+*018*2022-12-18 09:56
+
+Preparations for an Epic NASA Mission - Part 2
+
+After Joanna had left, Jessie decided to get another cup of coffee to help prepare her bladder. The rest of the morning was uneventful, at 11:45 she went for lunch with the other crew members. They were discussing all kinds of aspects of the new situation and about the engineering challenges for NASA. After finishing her lunch, Jessie got herself another half liter bottle of water and downed it.
+
+Nathalie: Thirsty today?
+
+Jessie: Haha.. Joanna told me to come with a full bladder to the appointment.
+
+Nathalie: Ahhhh!! OK! And, is your bladder full? Probably you have to drink five more bottles at least! Haha..
+
+Everybody was laughing. Jessie's bladder felt slightly full, she was sure that she was more or less on the right trajectory for having a somewhat full bladder at 2 pm.
+
+Jessie: I think I'm doing alright, I had some extra water and coffees this morning and I already feel a bit full.
+
+Nathalie looked at Jessie's lower abdomen and noticed the already clearly visible bulge from Jessie's giant bladder.
+
+Nathalie: Haha we can already see your giant bladder! Ohoh.. I hope you can make it without exploding!..
+
+Jessie: Yes, I am sure I can make it, I do not yet really feel any need to pee..
+
+Nathalie and Andrej did not have anything to do until 2 pm, like Jessie, so they continued to talk about all kinds of things, mission-related but also completely different topics. They all had a coffee after lunch and continued talking. At 1 pm Jessie got herself another coffee and another half liter bottle of water.
+
+Nathalie: Are you sure that's a good idea? Your bladder looks already pretty full?
+
+Jessie: Haha.. I'm sure that my bladder can handle this. I feel a bit full, but it is still a long way until I really have to pee!
+
+Nathalie: Sure. Btw. do you already know what exactly you are going to do there and why they want you to have a full bladder?
+
+Jessie: Hmm.. not really. They want to design my vacuum funnel, so I guess they will somehow measure anatomy and things "down there".
+
+Nathalie: Ahh.. maybe they want to measure anatomy down there both with you having a full and an empty bladder and see if anything changes?
+
+Jessie: Yes this might be. Hmm.. you are right, the vacuum funnel has to fit in both situations.
+
+Nathalie: Haha quite a dangerous job for them measuring things down there when you have a full bladder.. If you lose it then they probably drown..
+
+Everybody was laughing. Jessie noticed that her bladder now was really rather full, she could clearly feel a slightly unpleasant pressure from laughing.
+
+They continued to discuss random things. Fifteen minutes later Jessie had finished her water and coffee. Nathalie thought that she noticed a tiny bit of desperation in Jessie's behavior. E.g. from time to time Jessie was very lightly whipping with her left feet.
+
+Nathalie: Are you sure that you are full enough? What about another round of coffee? Haha..
+
+Jessie: Haha.. Thanks, but I think I'm ready! I can hardly imagine that the amount of pee in my bladder could be not enough!
+
+Nathalie: Haha yes that's indeed hard to imagine.. hmm.. you look a tiny bit desperate!
+
+Jessie: Hmm.. yes I definitively could go for a wee, but I am sure that I can hold it for the next two hours..
+
+Nathalie: Haha and you look definitively pregnant..
+
+Jessie: Haha yes..
+
+At that moment Jessie's phone rang, Jessie looked at it and saw that it was Joanna calling her.
+
+Jessie: Interesting, Joanna is calling me, let's see..
+
+Joanna told Jessie that they had slightly changed their plan and asked Jessie if she could immediately come to the appointment. Jessie agreed to come immediately, and she was a bit relieved that she did not have to wait for the additional 45 minutes. Jessie left her two colleagues and headed for the room in the medical complex where the appointment took place. Obviously, Nathalie made some fun comments about not drowning anyone and similar when Jessie left. After standing up and while walking Jessie noticed some increase of pressure in her bladder. She definitively was a bit desperate by now. It took her a few minutes to walk to the medical complex. Jessie quickly found her way to the room for the appointment. She knocked at the door, and Joanna answered "please come in".
+
+Jessie entered the room and saw a kind of gynecological chair on one side of the room with a couple of additional technical devices (looking quite high tech) next to the chair and attached to the chair. Next to Joanna there was another doctor, a relatively young and very attractive blonde women, Jessie guessed her age to be around thirty.
+
+Joanna: Great that you could make it earlier! Wow you look already pretty full.. Are you feeling desperate right now?
+
+Jessie: Hmm.. yes I think I do feel a bit desperate. But I am sure that I can hold it for quite some time, it is not that I am bursting.
+
+Joanna: Hm OK, great! But anyway, let's get started as soon as possible and then I'll explain on the way what we are trying to do here. Jessie, can you please fully undress your pants and panties? You can put your clothes over there.
+
+Jessie: Uhm ok, sure.
+
+Joanna: And by the way, this is Doctor Jennifer Hall, we will together perform the measurements.
+
+Jessie: Nice to meet you
+
+Jennifer: Nice to meet you!
+
+Joanna: And then please take a seat over here!
+
+Jessie undressed herself and then started to walk towards the gynecological chair.
+
+Jennifer: OK.. wow your bladder.. they were not kidding..
+
+Joanna: Wow indeed! Your bladder looks huge!
+
+Jessie: Haha.. yes it is huge..
+
+Joanna: Let's hope you don't flood everything here! In the unrealistic case that you cannot hold your pee any longer it is of course no problem, then please just urinate as much as you have to.
+
+Jessie: Yeah.. I think I can hold it..
+
+And Jessie sat down on the high tech gynecological chair. Jessie with her underwear removed was an amazing sight. The incredibly sexy Jessie with her absolutely perfectly shaped and clean shaved pussy. Joanna grabbed a ultrasound device and measured the amount of pee in Jessie's bladder.
+
+Joanna: 1775 ml, you are a very good girl! That's actually the perfect amount to start our little experiment. I first perform the necessary measurements, and then I'll explain how we will proceed. This will take about five to ten minutes.
+
+Jessie: Uhm ok, sure!
+
+Joanna: OK! Please put your legs up here, and then we will start.
+
+Jessie put her legs up, and Joanna put the leg holders of the gynecological chair into a slightly spread position.
+
+Joanna: OK! All good? Still not bursting?
+
+Jessie: Haha all good!.. I'll try to warn you early enough in case that this should change.
+
+Joanna: Great!
+
+Joanna and Jennifer started their examination. The started to "install" a device that was somewhat looking like how long time ago (say in the eighties of the last century) people imagined how high tech science fiction devices would look. The system was on a quite solid metal frame, and they put the system into a very stable position by strapping it to Jessie's legs.
+
+Joanna: Great! Please now try for the next four minutes to move as little as possible..
+
+Jessie: OK!
+
+Joanna: So, the device will apply certain amounts of pressure to your crotch area and see how the anatomy changes. This will not take very long, and it should be not really unpleasant or even hurt.
+
+Jessie: OK?
+
+Jessie was happy that she was not more desperate. At this point in time it was possible for her to keep still relatively easily. The device started to make some hydraulic noises and Jessie could feel pressure applied to different regions of her crotch.
+
+After about three minutes of whirring the device stopped and apparently the procedure was done.
+
+Joanna: OK, perfect, we have the first measurement. We create two more to make sure that everything is perfect.
+
+Jessie: OK!
+
+In the meantime Jessie had looked around in the room. One thing that she noticed directly next to the chair were three glass containers for catching urine from someone in lying position. Jessie thought to herself: "haha yes, one will certainly be not enough if I cannot hold it anymore..".
+
+Ten minutes later, Joanna explained that they had three good measurements. She explained that she would quickly go to another room and check on a computer that everything was perfect, and that she then would start with 3d printing a model of the vacuum funnel. Then Joanna surprised Jessie a little bit..
+
+Joanna: You are doing fantastic! So, how are you feeling, are you very desperate, or do you think we can repeat these measurements with a slightly fuller bladder?
+
+Jessie: Uhm.. you know that I can hold far over 2.5 liters of pee.. So, yes, I guess we can do this.. How full do you think should my bladder be?
+
+Joanna: Great! Hmm.. say 2.35 liter would be absolutely perfect? Do you think we can try for this? In case that you feel that you cannot hold it anymore we can always do it at less.
+
+Jessie: Uhm OK!.. That sounds like quite a lot, but I will try!
+
+Joanna: Great! And as I said at the beginning, in case that you really cannot hold it anymore you can always just start to urinate..
+
+Jessie: OK.. yes I guess at 2350 ml I cannot guarantee that this will not happen.. We might end up in a pretty big puddle of pee..
+
+Joanna: Haha sure, this might absolutely happen. We will see how it goes..
+
+Joanna: Do you think you had enough to drink already, or do you want some additional drinks?
+
+Jessie: Hmm.. I guess one or two more drinks could help..
+
+Joanna: I can offer, water, coffee, tea, isotonic nasa juice, various other things, but I think for this special situation I'd recommend a beer..
+
+Jessie: Hmm.. I think a beer sounds very good. Then I'd like to order one beer and one nasa juice.
+
+Joanna: Very good, I'll get that. Btw. I'll keep you for a moment in this awkward position until I have checked on the computer that the measurements are good.
+
+Jessie: OK
+
+Joanna: Great, I'll be back in five minutes with some drinks!
+
+Jessie: OK, thanks, I guess
+
+Joanna left the room, and Jessie thought about her currently rather strange situation.. naked, strapped to a gynecological chair with some hightech device in between her legs, with nearly two liters of pee in her bladder.
+
+In the meantime Jennifer started to explain the procedure that they had planned.
+
+Jennifer: So, for the vacuum funnel to work it is absolutely crucial that it fits perfectly in every situation, meaning while having a full bladder, a very full bladder, a half full bladder or an empty bladder.
+
+Jessie: OK
+
+Jennifer: If we have the anatomy measurements for all of these states we can design the funnel such that it fits perfectly for every state.
+
+Jessie: OK
+
+Jennifer: And this is the reason why we now try to measure your anatomy with an even fuller bladder. Such that for the case that you are in space and have a very full bladder you can still safely relieve yourself.
+
+Jessie: OK, sounds great.
+
+Jessie: So, let's assume that we manage, then we have measurements for 1800 ml and 2350 ml. So you will still have to measure for a half full and empty bladder, right?
+
+Jennifer: Yes, exactly. So for us it would be most efficient if we could do the half-full measurements directly now. Do you think it is possible for you after you start urinating to stop after voiding around 1000 ml of urine?
+
+Jessie: Uhm.. I cannot 100 percent guarantee that I can stop, but I think it should be possible.
+
+Jennifer: This would be great, but in case that you cannot this is not problem, then we can just do the measurements later.
+
+Jennifer: Btw. we are all very much impressed by your bladder and bladder control!
+
+Jessie: Uhm, thanks?
+
+Jennifer: Ah OK sorry.. I guess we should maybe talk about something else?
+
+Jessie: Uhm.. no no it is fine, I like to talk about my bladder!
+
+Jennifer and Jessie continued for the next minutes to discuss the events from last week, how Fiona after a spacewalk training had noticed Jessie's gigantic bulging bladder and had discovered that Jessie up to that point had never urinated into her urine containment system.
+
+Then Joanna returned, holding a tray with lots of drinks in both her hands.
+
+Joanna: Good news, all three measurements are perfect. And I have a coffee for the doctor, and a pint and some NASA juice for Ms. Superbladder.
+
+Joanna: So Jessie, I guess we should get you out of your awkward position? What position is for you the most comfortable for holding your super full bladder?
+
+Jessie: Hmm.. Actually I feel pretty comfortable like this. I don't think that it is much easier to hold my pee in any other position. Also getting back into the chair with a super full bladder will be pretty tough and I fear that I might flood the room in the process..
+
+Joanna: OK very good. That makes a lot of sense. I think we will now just try to wait for 30 minutes if this is possible for you. Then we can do another ultrasound measurement, depending on how much you drank before, I would guess that in 60 to 90 minutes we might be at 2350 ml. If you notice that you cannot hold it anymore then we will stop of course.
+
+Jessie: Yay, sounds like fun! NASA seems to really like pee holding contests!
+
+Joanna: Yes, we are really sorry for all these things that you have to endure..
+
+Jessie: Anyway, cheers!
+
+Jennifer: Cheers! to Ms. Superbladder!
+
+And Jessie started drinking her pint. She took a couple of huge gulps and had emptied half the glass.
+
+Jessie: Ahhhhh!
+
+Joanna: Ms. Superbladder is thirsty! Very good!
+
+Jessie: *BUUUUUURRRP* .. sorry.. cheers to that..
+
+Jennifer: Haha cheers!
+
+For the next 10 minutes the three women had some small talk about NASA in general and Jessie's mission in particular. By this time, Jessie had long finished her beer and had a couple of gulps of her isotonic drink.
+
+Joanna: Ah Jessie, btw. if you prefer to have another beer, we can also get that if you prefer it over this isotonic drink.
+
+Jessie: Hmm.. yes I guess another beer would be great! I have to say, I think the alcohol somehow makes it much easier to hold my full bladder.. I feel much less desperate than ten minutes ago, I barely feel desperate at all currently..
+
+Joanna: OK, great! Yes, and for filling your bladder it is also pretty much the optimal choice. I'll be back in a second.
+
+Joanna left, and three minutes later returned once again with lots of drinks. This time two more pints and a bottle of water. Over the next fifteen minutes Jessie drank another beer and then decided that this was certainly enough beer for the moment, and she switched to water. It was time for another ultrasound measurement.
+
+Joanna: OK, 2075 ml now. Very good, we are rather rapidly filling. Jessie, how desperate are you currently?
+
+Jessie: Hmm.. I feel pretty OK right now.. I certainly feel that my bladder is pretty full and also that it is currently rapidly continuing to fill, but I feel somehow much less desperate than when I arrived at your office. I guess the position how I am lying also kind of helps with holding my pee.
+
+Joanna: That's great to hear! So then I guess we can wait for 20 to 30 more minutes and then check again? In case that you suddenly feel much more desperate, please tell us immediately!
+
+Jessie: OK, yes sounds good!
+
+Jennifer asked Jessie if Jessie wanted to learn more about the vacuum funnel system, and Jessie said yes. In the meantime, also the 3d-printed prototype was ready, and Joanna went to get it.
+
+When Joanna returned she brought the 3d printed prototype, but also a "real" vacuum funnel. She explained, that the 3d printed prototype was just for performing additional measurements (the material was completely rigid, in comparison to the real vacuum funnel was a tiny bit flexible such that it could deform and seal the area when applying pressure).
+
+Joanna: So in urination mode, this thing with an optimized shape for your body will be put with quite a lot of pressure (about 30 kg of pressure to be precise) against your crotch and should seal it absolutely air tight. As I said, former astronauts that tested the system on earth found it very comfortable to use.
+
+Jessie: OK, wow! Yes this sounds extremely cool to be able to piss directly into space! I am really looking forward to tomorrow when we will try this thing out!
+
+Joanna: Yes. One thing that is important for the next two days is that we practice for you the correct position to pee in during your space walk mission. We have to make sure that you are comfortably able to pee "into the right direction".
+
+Jessie: Always with the wind, not against the wind!
+
+Joanna: Haha yes exactly! We have to make sure that your pee flies into space and not into the high power electrical systems that you are working on.
+
+Jessie: Makes sense. And not all over my dear colleagues I guess!
+
+Joanna: Exactly. Haha although Nathalie by now has mentioned a couple of times that she would enjoy this.
+
+Everybody was laughing.
+
+Jessie: Haha yes Nathalie is really funny! I will still try to not do that during our space walk mission.
+
+Joanna: Yes, that's very good. We will show you the "correct" position tomorrow in the training pool, then we can practice this.
+
+Jessie: Great!
+
+Joanna: Btw. peeing in the pool will feel quite a bit different than peeing in space. In space it will be much easier, under water in the training pool there will be some hydrostatic pressure to pee against, but we think it should still be possible, in particular for you haha..
+
+Jessie: Haha.. I'm really curious to find how it feels, underwater and then in space!
+
+They continued to talk for the next ten minutes about the busy weekend for NASA, and in particular how the engineers involved in the design of the urine containment and waste disposal systems had very little sleep. Then it was again time for an ultrasound measurement.
+
+Joanna: Jessie, how do you feel? Can you still hold it like a big girl?
+
+Jessie: Haha yes, I feel certainly a bit more full than thirty minutes ago, but somehow I am still not really that desperate..
+
+Joanna: Very good! Then I'll do another measurement!
+
+Joanna: OK, Wow! We are still really rapidly filling: 2300 ml now!
+
+Joanna: OK, I think we can now anytime start with the measurements if you start to feel more desperate suddenly.
+
+Jessie: OK, very good to hear! Hmm.. currently I feel like I can easily hold it for another hour..
+
+Joanna: Wow.. OK I think that's probably not necessary. with all the liquids you drank your bladder will probably continue to fill really rapidly. I'd say let's wait for 20 more minutes, and in case that you feel more desperate we will immediately start with the measurements?
+
+Jessie: Sounds good!
+
+Joanna: But you are right, you seem to be very relaxed now, and your are not even wiggling in any way.. If you feel ambitious maybe we could aim for 2500 ml?
+
+Jessie: Right now this seems to be absolutely possible. I mean what is a NASA pee holding contest without any real desperation?
+
+Everybody was laughing.
+
+Joanna: It will also have one advantage for you, you will be able to pee a larger amount in the first go.
+
+Jessie: Haha true! Yes I am looking forward to peeing, but not really to having to stop..
+
+Joanna: Yes, if it is not possible to stop then this does not matter, then we can repeat this.
+
+Jessie: Btw. how will I urinate?
+
+Joanna: Hmm.. that's your choice. If you want to and if it is possible for you then you can just pee in this position and we will capture your pee with these glass containers.
+
+Jessie: Haha I see you brought multiple!
+
+Joanna: Haha yes, they are only 1500 ml, so when they are starting to get full we will have to switch!
+
+Jessie: Haha, yes this should be some psychological help to stop peeing.
+
+Joanna: Yes, but it would be no problem to just continue peeing.. The floor in this room is certainly pee-proof. Otherwise, if you don't like to pee in this position we can get you off the chair such that you can urinate into a 1500 ml beaker, in whatever position you prefer.
+
+Jessie: Hmm.. I think peeing like this sounds very good. With the only concern that there might be lots of pee everywhere after the process..
+
+Joanna: Don't worry about pee spraying around, we can deal with this without any problems..
+
+Jessie: OK..
+
+The next fifteen minutes were rather uneventful, and they were discussing how the original process with creating the vacuum funnels worked and what is different for Jessie. For former astronauts, i.e. women with normal bladder sizes, they just measured the status of the bladder when as full as possible and when empty. Usually, the change in the shape of the relevant anatomy was minimal anyway. Only today they decided that for Jessie's bladder it could make sense to also measure intermediate values, just to make sure that everything is safe. This late decision was the reason why they could not just measure Jessie bladder while filling but why they wanted Jessie to stop urinating after half emptying her bladder.
+
+*019*2022-12-24 08:04
+
+Preparations for an Epic NASA Mission - Part 3
+
+[15 minutes later..]
+
+Jessie: OK, I think beer and NASA juice are kicking in right now, I definitively feel a bit desperate now.
+
+Joanna: OK, very good! Then we will proceed immediately, I'll measure the volume and then we will do the measurements!
+
+Joanna: Whoa! We are at 2475 ml. Perfect, and wow we are filling really fast! We will proceed as fast as possible!
+
+Jessie: Great!
+
+Joanna and Jennifer again started to work on the device that was still strapped in between Jessie's legs, and after one minute of re-adjusting it, they were ready.
+
+Joanna: OK! We will start with the measurements! We will try to do two replicates. Please again try to stay as calm as possible. I noticed that you are wiggling a bit which is absolutely fine, the device is built do correct for that.
+
+Jessie: OK! I'll try my best!
+
+The device started again with it's whirring sounds and Jessie felt again pressure applied to her crotch area.
+
+Jessie: Ah that's good! This device kind of helps with holding the pee in!
+
+Joanna and Jennifer laughed.
+
+Jessie: Just in case, if I should lose control and pee over your fancy device, this will not cause any damage, right?
+
+Joanna: No, this device is absolutely pee-proof as well! But please try to hold it, with these measurements we will be completely safe with respect to using this system in space.
+
+Jessie: Sure, I'll do my best!
+
+For Jessie the urge to urinate had suddenly increased by a lot. Now it was pretty hard for her to not wiggle too much in her chair. She started to slightly shift her upper body from left to right.
+
+Joanna: Jessie, you are doing great! I am sure you can do it! Wow, we managed to get our Ms. Superbladder really to be a little bit desperate.
+
+Jennifer: Haha no wonder with 2.5 liters of pee in her bladder..
+
+Jessie started breathing a little bit heavy. Right now she felt really close to bursting. Jessie was wondering when this measurements run was finally finished, it felt like an eternity.
+
+[after a few minutes of whirring sounds..]
+
+Joanna: Great! We are done with this measurement. Sorry that it took a bit longer, this is because of your light wiggling it takes a bit longer to do good measurements. We will immediately go for the final measurement!
+
+Jessie: Great! [still breathing a bit heavily] Haha that's mean, the more desperate you are, the longer the device takes!
+
+Joanna: Yes, this is a bit unfortunate.
+
+The device again started with the measuring procedure. Joanna and Jennifer were a bit worried because of poor Jessie suddenly feeling so desperate. But now they could not really do anything about it, and also distracting Jessie from her super-full bladder was not so easy..
+
+Jessie started to breath a bit more heavy, and she was now slightly rocking her upper body back and forth. The device continued whirring. Joanna and Jennifer tried to cheer for Jessie.
+
+Jennifer: Wow Jessie, you are doing so great! We are very soon done, I am sure you can do it!
+
+Jessie did not answer anymore, she was focussing on keeping the lower part of her body as calm as possible to make the measurement go as fast as possible.
+
+Time was moving very slowly right now, and the device continued whirring, applying pressure, and continuing with it's measuring process. After five minutes that felt like an eternity, the device indicated that the measurement was complete.
+
+Joanna: Great! We are done with two good measurements!
+
+Jessie: Thank god, oof, I thought it would never stop..
+
+Joanna: Uhmm.. there is one more thing. Do you think you can hold it for two more minutes after uninstalling this device?
+
+Jessie: Oohh.. I will try, but I am not 100 percent sure.. What is it?
+
+Joanna and Jennifer were busy unstrapping the device from Jessie's body.
+
+While working on this, Joanna started to explain.
+
+Joanna: Optimally, we would do a fit check with our 3d-printed prototype, do perform a quick measurement of the deviation that we see with your current bladder level. We will try to do this, in case that you cannot hold back then this is no problem, then you can start to urinate at any time.
+
+Jessie: OK.. uhm I might..
+
+Joanna: We try to be as fast as possible!
+
+Joanna and Jennifer brought another device that was built to put the vacuum funnel prototype into the correct position, and to apply light pressure to check how tight the fit was without any structural adjustment of the vacuum funnel. They installed the vacuum funnel prototype into the device, and then they used the device to put the prototype into the right position.
+
+Jessie was bursting, and she was constantly wiggling with both her spread legs in the same rhythm.
+
+Joanna: OK, we see that you are really bursting! We will be done in a second! You are doing very well, you can continue to wiggle like this while we bring it into position!
+
+Jessie: mhhhh.. [making a slightly unahappy noise]
+
+Joanna: OK, we have it in position. Do you think you can stop wiggling your legs for a few seconds?
+
+Jessie: Uhmm.. yes I can try.. but then are we done? I am really very close to losing it I think..
+
+Joanna: Yes, we need about ten seconds, then you can go..
+
+Jessie: uhmm.. OK, I'll try..
+
+Joanna activated a light that was shining from below the prototype, and created a border of bright green light on Jessie's skin at the positions where the fit of the prototype was not perfect.
+
+Jessie: Cool, now my pussy started to glow bright green?
+
+Joanna: Haha yes exactly. Can you count down to when you try to stop wiggling, then we will start the procedure. It really only takes ten seconds!
+
+Jessie: OK.. uhm.. and then how long does it take until I can piss?
+
+Joanna: We will immediately remove the system, and..
+
+Jennifer had grabbed one of the 1.5 liter glass containers and showed it to Jessy that she already had the device in her hand
+
+Joanna: But if you cannot hold it, you can start peeing immediately.. As I said, the floor is pee-proof.
+
+Jessie: Uhm.. ok..
+
+Joanna: But when you pee, please remember that it would be good if you could stop at some point. We will tell you how much you voided and when you should try to stop.
+
+Jessie: Uhmm. sure..
+
+Jessie was breathing heavily, and currently shaking more than ever.
+
+Jessie: OK.. let's try this.. Are you ready?
+
+Joanna: Yes, everything ready on our side.
+
+Jessie: ok.. ok.. then.. .. three.. two.. one..
+
+Jessie took a deep breath and tried to stop wiggling.
+
+Jessie: one.. gooo!!..
+
+Joanna activated the device. The device did some final calibration on its own, and then started very tiny movements in front of Jessie's crotch area. The device was filming and analyzing the light patterns coming from below the prototype during these tiny movements, to determine how tight the fit would be.
+
+Jessie was literally clenching her teeth and breathing in and out really fast.
+
+Joanna: Great, Jessie! We are nearly there, just a few seconds more!!
+
+Jessie: [moaning faintly..]
+
+Joanna: Perfect, Jessie, two.. one.. we are done! You don't have to keep still anymore..
+
+Jessie: Aaaahh...
+
+Joanna and Jennifer unmounted the system and moved it to the side.
+
+Jessie was absolutely bursting. She had no energy left to hold back the torrents of pee. Also she thought, they told me about ten times that I could start to urinate any time, and now it is time..
+
+Jessie started to leak. Jessie's perfectly shaped pussy started to spray out pee. The stream for the first second was not very powerful, it increased from initially a dribble to a maybe one meter arc.. Joanna and Jennifer were busy moving the device to the side.
+
+Jessie: uhm.. guys!!...
+
+Jennifer noticed that Jessie had started to pee.
+
+Jennifer: That's OK.. We are there in a second..
+
+She had the glass container for collecting Jessie's pee already in her hand and started to move back to Jessie to capture the stream of pee that Jessie was ejecting.
+
+After about two seconds of "startup time" peeing a normal stream, Jessie's bladder went into overdrive mode. Jessie had zero control over her bladder at this point in time. She had decided that it was OK for her to start peeing and just let things happen. When her bladder's overdrive mode kicked in, Jessie was overwhelmed by pure joy and moaned loudly.
+
+Jessie: AAAHHHHHHHhhhh!!!!!!!
+
+The sight was absolutely insane. The extremely sexy Jessie with her rather petite body, watermelon big bulging bladder belly, started to shoot out an inhuman stream of pee from her perfect pussy. The stream shot basically like a laser beam slightly upwards due to Jessie's position, and went in a near straight line for about 4 meters to hit the wall on the opposite side of the room..
+
+Jennifer: Whooaa!!
+
+Jennifer hesitated for a split second to move the glass container for collecting the pee into the right position. Mainly, because she had never seen a stream like this, but also instinctively because just the process of moving something into Jessie's line of fire would lead to pee spraying everywhere across the room, including Jessie and Jennifer. After that split second, Jennifer instinctively closed her eyes and mouth and put the glass container into the stream. She could feel the tremendous force of Jessie stream spraying into the container. In the same moment she could also feel all of the pee that was splashing off the glass while she moved it into the stream spraying everywhere.
+
+Jennifer could not fully grasp what just happened, but she realized that she was now fully capturing the insane stream of piss that was shooting out of Jessie.
+
+Jennifer: [again] whoa...
+
+Jessie was feeling slightly embarrassed that she for maybe one second shot a huge amount of pee all across the room, and also because Jennifer was completely soaked in her pee. It took her one more second to realize that now everything was kind of under control, and that she was just urinating with incredible force into the glass container that Jennifer was holding.
+
+Jessie: aaahhhh.... [Jessie was still overwhelmed by her feelings and had to moan again because she realized that now things were somewhat under control]
+
+Jessie: [while still shooting an incredible stream of pee from her pussy] uhh... sorry for that..
+
+Jennifer: uh nevermind! Wow you go girl!
+
+Jessie: uh yeah..
+
+After just five seconds of capturing Jessie's massive pee stream the container was filling up rapidly. Although Jessie was holding her pee already for 7 hours and had drank 5 coffees (among many other things), from the huge liquid intake during the last two hours it was rather diluted, therefore Jessie's collected pee had a very healthy pale golden yellow color.
+
+Jennifer: wow.. uhm Jessie I nearly don't dare to ask, but do you think you can stop your pee in a couple of seconds?
+
+Jessie: uhh.. maybe? How much more? aaaahhh it feels soooo good!!!
+
+The glas container was really getting full already..
+
+Jennifer: Uhm.. anytime now, maybe in like three seconds?
+
+Jessie: aahh.. I'll try..
+
+Jennifer counted: three.. two.. one.. stop!!
+
+To psychologically support Jessie, Jennifer at this point in time moved the glass container out of the pee stream (however, it was anyway nearly full and Jennifer had to switch to the next one soon).
+
+Jessie: AAhhhhhh!!!!!!
+
+Jessie's stream stopped indeed.
+
+Jessie: AAAAHHHHH!!!!
+
+Jessie absolutely tried to clench together everything down there, but she noticed that there was still one gusher of pee that she had to let out before stopping completely..
+
+*PSSSHHHHHHHHHTTTT*
+
+One more massive burst of pee erupted from Jessie's pussy. It shot out like a laser beam and hit the ceiling of the room, several meters away from Jessie.
+
+Joanna and Jennifer: whoaaa.. [while watching the pee from Jessie's burst hit the ceiling and then splattering down on the ground]
+
+Jessie: hhhhmmmmmmpppfff.....
+
+And indeed, after this final gigantic burst, Jessie had stopped her urination.
+
+Joanna: Wow Jessie!! You really stopped!!
+
+Jessie was still focussing on not starting to pee again and currently could not talk. After five more seconds she was "stable" and she did not feel some immediate need to continue to pee. She felt for the moment back in control, and also for the moment incredibly relieved.
+
+Jessie: ahhhhhhh.. sooo much better!!
+
+Joanna: Jessie, how do you feel? Can you hold your pee for the moment?
+
+Jessie: ahh!!.. Yes, currently I feel really great! Uhm.. I am really sorry for what happened. I really could not hold it anymore, I think it might have been because of the position with spread legs..
+
+Joanna: That's all good. You held it for exactly long enough, we told you that you could pee immediately afterwards. You did a phenomenal job and you don't have to excuse for anything.
+
+Jennifer: Wow Jessie, that was quite something..
+
+Jessie: Haha.. good that you reacted so quickly, and that was quite brave to put the container into my pee stream.. I feel bad that you are drenched in pee now..
+
+Jennifer put the container that she used to capture Jessie's pee on a shelf, grabbed a towel and was currently cleaning her face and upper body from pee..
+
+Jennifer: Haha yes that's quite powerful your pee stream!.. Don't worry about me, I guess that's part of my job.
+
+Joanna was assessing the situation, looking at the lake of pee on the floor, looking at the huge puddle at the wall at 4 meter distance, and looking at pee dripping from the ceiling.
+
+Joanna: Hmm.. we learn, with Jessie in the room it is not enough to have a waterproof floor..
+
+Jennifer: Yes that was quite impressive, I have never seen anyone pee all across the room or hitting the ceiling..
+
+Jessie: Haha I had 2.5 liters of pee in my bladder.. It has to go somewhere..
+
+Jennifer pointed at the glass container filled with Jessie's pee.
+
+Jennifer: I think I have never seen anyone pee that much, but Jessie's bladder is still far from empty..
+
+Joanna: As I said.. Jessie is a good girl.
+
+Everybody was laughing.
+
+Joanna: Hmm.. I would propose that we clean up later and quickly finish up with our measurements?
+
+Jessie: Sure.
+
+Joanna: Jessie if this is OK for you then I will quickly measure the amount of pee that is left in your bladder?
+
+Jessie: Sure.
+
+Joanna grabbed the ultrasound device, and Jennifer started to calculate.
+
+Jennifer: 2500 minus 1250 in the container, minus 300 on the floor, wall and ceiling, plus 250 from beers and NASA juice?
+
+Joanna: OK, 1150 ml! Wow you two did an amazing job with stopping the flow at exactly the right point in time! Bullseye!
+
+Jennifer: Great! Jessie also hit the bullseye on our ceiling!
+
+Everybody started to laugh again.
+
+Jennifer grabbed another towel to clean Jessie, first the splashes on her upper body, and then her naked legs that were completely sprayed with pee.
+
+Jennifer: Haha I am a bit afraid to move "directly into Jessie's line of fire"..
+
+Jessie: Haha don't worry, I do not have that much ammunition anymore, and in case I'd suddenly start "shooting" I'd give you a one second warning prior to it.
+
+After cleaning Jessie and her chair a bit, they performed the same series of measurements as before. The procedure took again about 15 minutes and was much less eventful than the last one.
+
+Joanna: Great! Thanks Jessie! We are done with all measurements for this bladder fill state. Now we just need one more of you with an empty bladder. So please continue doing what you can do best!
+
+Jessie: Haha! OK! Ceiling, wall, what should I aim for this time?
+
+Jennifer: Haha I'd love to see ceiling or wall again, both was really impressive!
+
+Everybody was laughing.
+
+Jennifer: But maybe the cleaning crew is already busy enough and I'd recommend peeing into this? [She had grabbed a new empty 1.5 liter glas container for collecting urine]
+
+Jessie: OK! This is a bit less fun but it will do too!
+
+Jennifer put the glass container about two inches in front of Jessie's vagina.
+
+Jessie tried to relax and resume her urination.
+
+Jessie: Hmm.. wait for it.. .. .. .. uhm.. ..
+
+Jessie started to slightly push on her bladder, to try to resume with peeing.
+
+Joanna: No hurry, we have all the time.
+
+Jessie: uhm.. I guess this is because I had to put so much effort before to stop peeing that I have trouble going again.
+
+Joanna: Yes, just take your time. I am sure it will work soon. .. uhm.. if you want we could also get you out of the chair such that you can try to pee in a different position.
+
+Jessie: uhm.. hmm.. maybe?.. nah I think it should be possible to pee in this position. I very clearly feel the pee in my bladder, and it kind of wants to come out, I am sure that it will work soon.
+
+Jessie continued to lightly press on her bladder, and to shift the position of her upper body a bit.
+
+Jennifer: Just take your time!
+
+Jessie: Uhm.. maybe it would help if.. I.. uhm..
+
+Joanna: Massage your pussy a little bit?
+
+Jessie and Jennifer burst into laughter.
+
+Jessie: ahaha! ..yes, that's exactly what I wanted to propose.
+
+Jennifer immediately pulled away the glass container for catching Jessie's pee that was close to covering Jessie's pussy.
+
+Joanna: Yes that's exactly what I wanted to propose. That's probably the most efficient way to get you a little more relaxed.
+
+Jessie was slightly unsure how to proceed. She slightly hesitantly touched her vagina with her right hand. Joanna and Jennifer were staring at Jessie's pussy. The view was just too good. The super attractive Jessie Lewis with her perfect body and spread legs starting to touch herself. Although Jennifer and Joanna were both at least 90 percent straight, they both swallowed hard because of the amazing view.
+
+Joanna: Uhm.. sorry for staring at your pussy.. we can give you some privacy if you want.
+
+Jessie: uhm.. ok.. but I don't really care.. you watched me piss all across the room and I peed all over you, so now I really don't care for this..
+
+Jessie certainly felt pretty aroused by all the crazy pee action that had happened before. She started to carefully rub her clitoris a bit. Very suddenly she felt very horny and she started to rub a bit harder and faster. Joanna and Jennifer had stepped away a little bit away and had turned their faces away. However, it was hard for them to not watch Jessie "relaxing" and they glimpsed over from time to time. They had noticed that Jessie was breathing heavily and both wondered if Jessie was really close to an orgasm.
+
+Jessie had closed her eyes and was not really close to an orgasm but still feeling very aroused. She very much enjoyed what she was currently doing. Suddenly, she felt the need to urinate, and this immediately reminded her of what she was actually trying to do. She waited for a short moment, to reassure herself that it was really some need to pee that she felt.
+
+Jessie: Hey guys! I think we can continue soon..
+
+Jennifer stepped closer to Jessie, having the urine capturing container in her hand.
+
+Jennifer: You think you can continue to pee?
+
+Jessie: I think we are getting there.. I feel some need to pee, now I just have to get the stream started.. Uhm.. I guess it is ok to pee on the floor to get my stream restarted? [looking down on the huge puddle on the floor beneath her.]
+
+Jennifer: Yes, sure..
+
+Jennifer and Joanna watched Jessie kind of tipping with her finger on her clitoris. Then, a small dribble of pee came out.
+
+Jessie: not quite, but we are getting closer..
+
+The same thing happened four more times, with small dribbles of pee coming out of Jessie's pussy. With each time, the amount of released pee increased a little bit. The sixth' dribble continued for a few seconds, and then Jessie announced:
+
+Jessie: OK, I think we are finally there..
+
+Jennifer moved the pee capturing container about 5 cm in front of Jessie's pussy, such that Jessie could still touch it. Then, Jessie's pee stream resumed and she could aim the stream with her fingers into the container that Jennifer was holding.
+
+When Jennifer noticed that Jessie continued to pee, she moved the container a bit closer. Then, Jessie's stream again increased in force and she removed her hand from her pussy and was now peeing with a "decent" stream into the container.
+
+Jessie: Ahhhh!! Peeing just feels really good!!
+
+Jennifer: Very good Jessie! Keep going!
+
+Jessie: Oh yes, I will!
+
+Jennifer and Joanna were both staring at Jessie's perfect pussy releasing a decent stream of pee that was flowing nicely into the container. Jessie was not watching, she was just enjoying the feeling of emptying her bladder and had closed her eyes for the moment.
+
+Jessie made another sound indicating how much she was enjoying her pee:
+
+Jessie: Mmmmmhhhhh!.... [moaning softly]
+
+Jessie's stream was powerful by human standards, but not nearly as violent as when she had emptied the first half of her bladder.
+
+Jennifer and Joanna for the moment were quietly watching Jessie pee into the container that was slowly filling up. After 15 seconds it was about one third full.
+
+Jennifer: So if we measured correctly, then this time the container should be just big enough such that you can completely relieve yourself.
+
+Jessie: Yes that's very good! I really have to..
+
+Joanna: Haha we are happy for you that you finally can get all the relief that you needed! After flooding the whole room and after already filling up one of these it must feel amazing to fill another container!
+
+Jessie: Haha yes, it does..
+
+After peeing for about 25 seconds the container looked already rather full, and the amount of pee that Jessie had released was approaching one liter.
+
+Jennifer: Good girl! Haha it is getting a bit heavy! Let's hope that you are done soon!
+
+Jessie: I hope so too.. I feel like there is still some left..
+
+Joanna: Haha.. for normal people I would comment now, "wow you really had to go"!
+
+Jessie: But I did really have to go!..
+
+Joanna: Haha sure.. uhm OK.. maybe we are overflowing the next container too..
+
+The container was now getting pretty full and Jessie was still urinating at a significant rate, without any sign of slowing down.
+
+Jessie: uhm.. I think I still have to go a bit.. We may have to switch again..
+
+Jennifer: Wow.. indeed.. Please, in case that you start overflowing the container just continue peeing, there is no need for you to stop now..
+
+Jessie: uhm.. ok..
+
+Joanna: OK.. I'll go and get the next one.. [Joanna grabbed the third and last empty pee capturing container]
+
+Jennifer: Uhm.. OK we are really close to overflowing..
+
+Jessie: [shrugging her shoulders and smiling ironically] what can I do?.. when I go I really go..
+
+Jessie was still peeing with pretty much the same flow rate for now about 45 seconds. The container now was completely full, and the sound of pee splashing on the floor indicated to Jennifer to move her overflowing container away from in front of Jessie's still heavily urinating vagina. For the next second, Jessie was peeing a very beautiful arc of pee about 2 meter through the room. Joanna brought her empty pee collection container in front of Jessie's vagina to capture her pee stream.
+
+Jennifer: OK.. this one is pretty full.. [while carefully putting the container that was full to the brim with Jessie's pee on a shelf, next to the nearly full first container].
+
+Joanna: Haha at some point you must be empty?..
+
+And at that point, Jessie's pee stream reduced a bit in power.
+
+Jessie: Uhm.. yes I think there is not too much left..
+
+Jessie continued to relieve herself and was now releasing the last remaining amounts of pee from her gigantic bladder. She was still peeing with a very nice stream that went directly into the container that now Joanna was holding.
+
+Joanna: Haha.. good that I brought three of these..
+
+Jessie: Thank god! Haha..
+
+Jennifer: That was good, however we could not avoid this.. uhm.. little "accident"..
+
+Jessie: I'm really sorry that there is pee everywhere..
+
+Joanna: Jessie, don't worry. You did perfect today, we have probably all the data that we need to enable you to fix the ISS.. Our job today was basically to fill your bladder until you burst, or maybe to the point just before, and that worked out perfectly. And then, I guess we have to expect some collateral damage when filling your gigantic bladder to the point of bursting..
+
+Jessie's stream again got a bit weaker.
+
+Jennifer: A propos gigantic bladder.. Jessie will you fill up this one too?
+
+At this point in time Jessie's pee stream stopped, about 60 seconds after she had resumed her urination.
+
+Jessie: Ahhhh!! So goood!! Hmm.. no I think I'm empty soon.. But not quite yet
+
+And her stream resumed, it was clearly visible that now Jessie had to slightly push to get the last remainders out of her bladder. By now, the container for capturing her pee was containing a significant amount of pee and was maybe a fifth full.
+
+Jennifer: Wow! Still going!
+
+Then Jessie's stream stopped again, she did resume it once more, and then finally she was completely empty.
+
+Jessie: Done!
+
+Joanna and Jennifer looked at each other, and Joanna asked,
+
+Joanna: Already!? Are you sure?
+
+Jessie was not immediately answering, she tried to feel if there was still some pee left, but there was none. So after a few seconds,
+
+Jessie: I'm really empty! Done!
+
+Joanna: Wow! Jessie, you are such a good girl! Do you feel relieved?
+
+Jessie: Oh yes, very much! I feel very much better!
+
+Joanna did not yet dare to move the capturing container away, she was expecting the possibility of more pee from Jessie. But Jessie was really completely empty. After a few more seconds:
+
+Joanna: OK, great! Then we can go for your last measurement!
+
+Joanna put the pee capturing container that she was holding to the shelf where the two full containers were already standing.
+
+Joanna: Well.. this is probably again very close to the peeing world record..
+
+Jessie: Yay!..
+
+Jennifer: Jessie, I have to say this was very very impressive.
+
+Jessie: Haha!.. You make me blush!..
+
+Jennifer: To be honest, even half the amount of pee would be already very impressive..
+
+Jessie: Haha..
+
+Jennifer: OK, then let's get you cleaned up for the last measurement!
+
+And Jennifer handed took some tissues to gently clean some drops of pee from Jessie beautiful pussy. Then, Jennifer and Joanna started to reinstall the first machine for measuring. Jessie looked around in the room, she felt really proud of her gigantic bladder that had contained this massive amount of pee. Jessie's urination was once again absolutely epic, with pee all over the room and a huge puddle at the wall at 4 meter distance, and the row of pee capturing containers on the shelf next to her: one 1.5 liter container literally at the point of overflowing, one 1.5 liter container very close to overflowing, and a third 1.5 liter container with a significant amount of pee inside.
+
+Joanna and Jennifer performed the measurements of Jessie with an empty bladder, and then Jessie's very special "examination" was over. They once again assured Jessie that it was no problem at all that Jessie had peed all over their office and they again thanked Jessie for her efforts. They then instructed Jessie to not drive home by herself and instead take a cab ride home, because she was somewhat intoxicated from drinking one liter of beer before. Jessie agreed to do so. On her ride home, she thought again about what she had learnt today in the morning crew briefing. She felt super relieved because it seemed that NASA had figured out a potential way to bring her safely into space. Also, she felt super excited because of the things to come. 
+
+She was really looking forward to the various test pisses and training pisses that she would take in the next weeks and months. And then she was obviously incredibly excited about finally going to space, and then enjoying multiple extra pee breaks during the mission that were just for her. It was literally all of NASA's attention on her giant bladder and on the incredibly huge pisses that she would take during that mission. All of these thoughts made her extremely horny, and she could only just stop herself from rubbing herself in the cab while riding home. After a few minutes of driving she finally arrived at home and paid with her NASA credit card. At home, Jessie immediately started to masturbate and after just a few minutes came super hard. After that she was completely happy, relaxed, and feeling a weird mix of tremendous happiness and tiredness.
+
